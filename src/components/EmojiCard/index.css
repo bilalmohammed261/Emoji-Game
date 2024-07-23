@@ -1,1 +1,9 @@
 /* Write your code here. */
+
+.card-container {
+  border: 3px solid #ffffff30;
+  margin: 5px;
+  width: 20%;
+
+  padding: 10px 10px;
+}
